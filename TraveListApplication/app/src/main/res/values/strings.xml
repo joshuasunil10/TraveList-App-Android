@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TraveList App</string>
+    <string name="item_name">Item Name</string>
+    <string name="country_name">Country Name</string>
+    <string name="priority">Priority</string>
+    <string name="new_location">New Location</string>
+    <string name="location_name">Location Name</string>
+    <string name="e_g_paris">e.g Paris</string>
+    <string name="e_g_france">e.g France</string>
+    <string name="visit_the_louvre_museum_in_paris">Visit the Louvre Museum in Paris</string>
+    <string name="save_location">Save Location</string>
+    <string name="description">Description</string>
+    <string name="welcome_globetrotter">Welcome Globetrotter!</string>
+    <string name="travelist_keeps_track_of_your_favorite_destinations">TraveList keeps track of your favorite destinations</string>
+    <string name="save_your_activities_and_upload_photos">Store any activites you have done or wish to do!</string>
+    <string name="make_your_trips_unforgettable">Make your trips unforgettable</string>
+    <string name="get_started">Get Started!</string>
+    <string name="my_locations">My Locations</string>
+    <string name="add_new_location">+ New Location</string>
+    <string name="want_to_delete_a_location_long_press_on_the_location">Want to delete a location? Long press on the location.</string>
+    <string name="edit_priority_status">Edit Priority Status</string>
+    <string name="view_in_google_maps">View in Google Maps</string>
+    <string name="country">Country</string>
+    <string name="location">Location</string>
+</resources>
